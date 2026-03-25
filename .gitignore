@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config files with personal data
+config.yaml
+*.env
+
+# Packaged skills
+*.skill
+*.tar.gz
