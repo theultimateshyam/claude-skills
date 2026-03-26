@@ -2,8 +2,6 @@
 
 A growing collection of Claude skills I've built for my own workflows. Accumulated over time across product management, research, content creation, and trust and safety work.
 
-This is a private repo for now. May open-source down the line once things are battle-tested.
-
 Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Cowork](https://claude.ai).
 
 ## Skills
