@@ -10,6 +10,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Cow
 | --- | --- | --- |
 | **[company-research](./company-research)** | Career | Deep-dive company research for evaluating whether a company is worth joining. Covers products, funding, founders, culture (tech-led vs product-led), social sentiment, employee reviews, and an AI moat risk assessment. |
 | **[linkedin-posting](./linkedin-posting)** | Content | Generate authentic LinkedIn posts with conversational voice, cross-domain thinking, and genuine vulnerability. Crafts content that builds real professional connections through thoughtful observation. |
+| **[meta-chain](./meta-chain)** | Thinking | Recursive causal-regress engine. Spawns a chain of zero-context agents that each explain only the previous level's output, producing a depth-configurable "5 whys"-style drill into first principles. Modes: `causal`, `steelman`, `counter`, `abstraction`. |
 | **[mobile-app-builder](./mobile-app-builder)** | Engineering | Agent-based Android app builder. Uses a multi-agent iterative pipeline (Architect, Builders, Inspector, QA Lead, Guardian) to build an Android app from assets or specs, with autonomous planning, parallel execution, and APK bundling. |
 | **[vault-ingest](./vault-ingest)** | Knowledge Management | Ingest any content (URLs, text, files) into an Obsidian-style knowledge graph vault. Creates entry notes, atomic concept notes, and Map of Content updates with bidirectional wikilinks. Adapts to existing Obsidian vaults. |
 
